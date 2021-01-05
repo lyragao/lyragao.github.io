@@ -1,5 +1,6 @@
 body{
   color: #2d2d30;
+  border: 5px solid #eee;
   padding-left: 81px;
   padding-right: 50%;
   background-color: #fcfcfc;
@@ -38,10 +39,10 @@ a{
 }
 
 a:link, a:visited, a:active{
-  color: #f2aac2;
+  color: #d6cbd0;
 }
 
-a:hover{
+a:hover, ::selection{
   color: #2d2d30;
   background-color: #ede8ea;
 }
