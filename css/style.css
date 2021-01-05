@@ -1,0 +1,47 @@
+body{
+  color: #2d2d30;
+  padding-left: 81px;
+  padding-right: 50%;
+  background-color: #fcfcfc;
+}
+
+h1, h2{
+  font-family: 'Acumin Pro', sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  background: linear-gradient(to right, #ede4e7, #ff7aa7);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  margin-top: 20px;
+}
+
+h1{
+  font-size: 72px;
+  padding-top: 60px;
+}
+
+h2{
+  font-size: 36px;
+}
+
+p{
+  font-family: 'Soleil', sans-serif;
+  font-size: 18px;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link, a:visited, a:active{
+  color: #f2aac2;
+}
+
+a:hover{
+  color: #2d2d30;
+  background-color: #ede8ea;
+}
