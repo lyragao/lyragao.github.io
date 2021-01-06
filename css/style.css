@@ -2,7 +2,7 @@ body{
   color: #2d2d30;
   border: 5px solid #eee;
   padding-left: 81px;
-  padding-right: 50%;
+  padding-right: 45%;
   background-color: #fcfcfc;
 }
 
@@ -30,7 +30,7 @@ h2{
 p{
   font-family: 'Soleil', sans-serif;
   font-size: 17px;
-  font-weight: 300; 
+  font-weight: 300;
   margin-top: 5px;
   margin-bottom: 0px;
 }
