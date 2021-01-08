@@ -41,9 +41,14 @@ a{
 
 a:link, a:visited, a:active{
   color: #b8adb1;
+  text-decoration: none;
 }
 
 a:hover, ::selection{
   color: #2d2d30;
   background-color: #ede8ea;
+}
+
+.icon{
+  font-size: 48px;
 }
